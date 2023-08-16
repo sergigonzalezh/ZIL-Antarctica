@@ -4,14 +4,14 @@ Zero-degree isotherm (ZIL) in Antarctica
 This is the Jupyter notebooks required to reproduce the research "Southward migration of the zero-degree isotherm latitude over the Southern Ocean and the Antarctic Peninsula: extent and implications" <!--published in *Communications of Earth & Environment*. -->
 
 This repository is divided in different notebooks that:
-  - 0. Plot the Maps presented in Figures 1 and S1
-  - 1. Compute and plot the melting season for Observations and ERA5 and its comparison
-  - 2. Compute and plot the climatological characterization of ZIL in ERA5
-  - 3. Compute and plot the past-recent annual and seasonal trends of ZIL in ERA5
-  - 4. Compute the annual and seasonal temperatures from monthly data in CMIP6 models 
-  - 5. Compute and plot the annual and seasonal trends in the Historical simulations in CMIP6 models and compare with ERA5
-  - 6. Compute and plot the trends in the future projections under the SSP2-4.5 scenario in CEMIP6 models
-  - 7. Compute and plot the trends in the future projections under the SSP5-8.5 scenario in CEMIP6 models
+0. Plot the Maps presented in Figures 1 and S1
+1. Compute and plot the melting season for Observations and ERA5 and its comparison
+2. Compute and plot the climatological characterization of ZIL in ERA5
+3. Compute and plot the past-recent annual and seasonal trends of ZIL in ERA5
+4. Compute the annual and seasonal temperatures from monthly data in CMIP6 models 
+5. Compute and plot the annual and seasonal trends in the Historical simulations in CMIP6 models and compare with ERA5
+6. Compute and plot the trends in the future projections under the SSP2-4.5 scenario in CEMIP6 models
+7. Compute and plot the trends in the future projections under the SSP5-8.5 scenario in CEMIP6 models
 
 <!-- More information at: González-Herrero et. al. (2022) -->
 <!-- DOI: https://doi.org/10.1038/s43247-022-00450-5 -->
