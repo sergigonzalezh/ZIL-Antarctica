@@ -4,6 +4,7 @@ Zero-degree isotherm (ZIL) in Antarctica
 This is the Jupyter notebooks required to reproduce the research "Southward migration of the zero-degree isotherm latitude over the Southern Ocean and the Antarctic Peninsula: extent and implications" <!--published in *Communications of Earth & Environment*. -->
 
 This repository is divided in different notebooks that:
+
 0. Plot the Maps presented in Figures 1 and S1
 1. Compute and plot the melting season for Observations and ERA5 and its comparison
 2. Compute and plot the climatological characterization of ZIL in ERA5
