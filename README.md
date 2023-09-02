@@ -1,7 +1,7 @@
 # ZIL-Antarctica
 Zero-degree isotherm (ZIL) in Antarctica
 
-This is the Jupyter notebooks required to reproduce the research "Southward migration of the zero-degree isotherm latitude over the Southern Ocean and the Antarctic Peninsula: extent and implications" <!--published in *Communications of Earth & Environment*. -->
+This is the Jupyter notebooks required to reproduce the research "Southward migration of the zero-degree isotherm latitude over the Southern Ocean and the Antarctic Peninsula: cryospheric, biotic and societal implications" <!--published in *Communications of Earth & Environment*. -->
 
 This repository is divided in different notebooks that:
 
