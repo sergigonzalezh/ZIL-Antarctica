@@ -13,6 +13,7 @@ This repository is divided in different notebooks that:
 5. Compute and plot the annual and seasonal trends in the Historical simulations in CMIP6 models and compare with ERA5
 6. Compute and plot the trends in the future projections under the SSP2-4.5 scenario in CEMIP6 models
 7. Compute and plot the trends in the future projections under the SSP5-8.5 scenario in CEMIP6 models
+8. Compute and plot the past-recent annual and seasonal mean ZIL position in ACI style
 
 <!-- More information at: González-Herrero et. al. (2022) -->
 <!-- DOI: https://doi.org/10.1038/s43247-022-00450-5 -->
@@ -34,6 +35,7 @@ The script consists in a group of Jupyter notebooks programed in python 3.8. The
   cartopy
   datetime
   requests
+  iris
 ```
 
 ## How to cite
